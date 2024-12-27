@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="left">Hi 👋, I'm Redixiasty</h1>
 
 ###
